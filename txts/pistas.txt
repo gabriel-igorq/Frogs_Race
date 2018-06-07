@@ -1,0 +1,14 @@
+Monaco
+30
+Interlagos
+50
+Barcelona
+70
+Parnamirim
+15
+Tokyo
+60
+Jardim
+45
+Barro
+100
