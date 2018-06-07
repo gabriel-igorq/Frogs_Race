@@ -2,19 +2,13 @@
 
 Projeto realizado para a disciplina "Linguagem de Programação I" do curso de Tecnologia da Informação da UFRN
 
-## Autor
-
-Gabriel Igor Queiroz Costa
-
-### Compilação
+### Compilação e Execução
 
 $ make
 
-### Execução
-
 $ ./bin/programa
 
-### Descrição
+### Descrição do Projeto
 
 O projeto tem como objetivo implementar em C++ um programa que simule uma corrida de sapos, manipulando dados de arquivos.
 
@@ -52,3 +46,7 @@ A corrida é realizada na main.cpp, a partir da linha 120.
 **Passo 6**: As operações de criação de sapos e corridas salvam os mesmo nos arquivos, bem como as estatísticas dos sapos após as corridas realizadas.
 
 Os arquivos in_out.hpp e in_out.cpp contém os métodos para escrever as informações dos sapos e das pistas em arquivos .txt.
+
+## Autor
+
+Gabriel Igor Queiroz Costa
