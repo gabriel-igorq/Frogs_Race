@@ -4,9 +4,13 @@ Projeto realizado para a disciplina "Linguagem de Programação I" do curso de T
 
 ### Compilação e Execução
 
-$ make
+```bash
+make
+```
 
-$ ./bin/programa
+```bash
+./bin/programa
+```
 
 ### Descrição do Projeto
 
@@ -49,4 +53,4 @@ Os arquivos in_out.hpp e in_out.cpp contém os métodos para escrever as informa
 
 ## Autor
 
-Gabriel Igor Queiroz Costa
+- Gabriel Igor Queiroz Costa
